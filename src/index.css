@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h2 {
+  margin-top: 0;
+  margin-bottom: 1em;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+table {
+  max-width:80%;
+ 
+}
+
+/*
+table tbody>tr>td>span:not(:first-child):before {
+  content:' ,';
+}*/
